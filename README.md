@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Santi Olivera, teacher student and junior front web developer
 - 👀 I’m interested on being significant to projects and society
-- 🌱 I’m currently learning on Coderhood and CONSUDEC
+- 🌱 I’m currently learning on Coderhouse and CONSUDEC
 - 💞️ I’m looking to collaborate with anybody who needs help
 - 📫 How to reach me: lpcsaanty@gmail.com or santi.olivera@hotmail.com
