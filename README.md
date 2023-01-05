@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Santi Olivera, teacher student and junior front web developer
+- 👋 Hi, I’m Santi Olivera, teacher student and junior full stack web developer
 - 👀 I’m interested on being significant to projects and society
 - 🌱 I’m currently learning on Coderhouse and CONSUDEC
 - 💞️ I’m looking to collaborate with anybody who needs help
